@@ -1,7 +1,7 @@
-function addab(a,b) {
+function add(a,b) {
   a+b
 }
 
 function subtract(a,b) {
-  a-b
+  b-a
 }
